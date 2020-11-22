@@ -3,8 +3,8 @@ echo "Started"
 
 mkdir ~/github
 
-./download.sh
-./installation.sh
+scripts/download.sh
+scripts/installAllRepos.sh
 
 echo "Finished"
 read -p "Press enter to close..."

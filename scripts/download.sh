@@ -14,5 +14,4 @@ sudo flatpak install com.tutanota.Tutanota
 
 cd ~/github
 git clone --recurse-submodules https://github.com/helagro/local-website-hub.git
-git clone --recurse-submodules https://github.com/helagro/day-eval-checklist.git
 git clone --recurse-submodules https://github.com/helagro/file-sorter.git
