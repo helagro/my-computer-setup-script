@@ -12,6 +12,10 @@ sudo apt install flatpak
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 sudo flatpak install com.tutanota.Tutanota 
 
+#snap programs
+sudo apt-get install snap
+sudo snap install discord
+
 cd ~/github
 git clone --recurse-submodules https://github.com/helagro/local-website-hub.git
 git clone --recurse-submodules https://github.com/helagro/file-sorter.git
