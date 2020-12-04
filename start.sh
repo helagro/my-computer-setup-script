@@ -2,6 +2,7 @@
 echo "Started"
 
 mkdir ~/github
+mkdir ~/github/localWebsites
 
 scripts/download.sh
 scripts/installAllRepos.sh
